@@ -24,8 +24,4 @@ public class JediRepository {
     public void add(Jedi jedi) {
         this.jedi.add(jedi);
     }
-
-    public Optional<Jedi> findById(Long id) {
-
-    }
 }

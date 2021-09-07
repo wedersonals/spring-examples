@@ -24,7 +24,7 @@ public class JediController {
     public ModelAndView jedi() {
         final ModelAndView modelAndView = new ModelAndView();
         modelAndView.setViewName("jedi");
-        modelAndView.addObject("allJedi", jediRepository.getAllJedi());
+        modelAndView.addObject("allJedi", jediRepository.findAll());
         return modelAndView;
     }
 
