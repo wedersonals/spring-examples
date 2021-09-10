@@ -4,3 +4,4 @@
 - Spring com Rest
 - Spring com HATEOAS e filters
 - Spring com Jackson e Binder
+- Spring - Integração com Telegram (usando HttpClient, RestTemplate, OpenFeign)
