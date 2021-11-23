@@ -12,7 +12,7 @@
 ```
 2. Access browser
 
-http://localhost:8080
+   http://localhost:8080
 
 3. Test unprotected pages
    1. http://localhost:8080/unprotected/data
@@ -22,9 +22,9 @@ http://localhost:8080
    1. http://localhost:8080/protected/data
    2. http://localhost:8080/protected/data/1
 
-Note: Login to acess protected pages
-   - username: "user"
-   - password: "test"
+      Note: Login to acess protected pages
+         - username: "user"
+         - password: "test"
    
 5. Logout
    1. http://localhost:8080/logout
