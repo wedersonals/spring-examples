@@ -6,3 +6,4 @@
 - Spring com Jackson e Binder
 - Spring - Integração com Telegram (usando HttpClient, RestTemplate, OpenFeign)
 - Spring - Testes com MockMVC
+- Srping - Basic Authentication
