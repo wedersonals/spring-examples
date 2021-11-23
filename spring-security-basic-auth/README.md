@@ -3,6 +3,7 @@
 ## Technologies
 - Spring Boot
 - Spring Security
+- Authentication In Memory
 
 ## How to test
 1. Run
@@ -21,5 +22,10 @@ http://localhost:8080
    1. http://localhost:8080/protected/data
    2. http://localhost:8080/protected/data/1
 
+Note: Login to acess protected pages
+   - username: "user"
+   - password: "test"
+   
 5. Logout
    1. http://localhost:8080/logout
+
