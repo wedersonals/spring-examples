@@ -7,3 +7,4 @@
 - Spring - Integração com Telegram (usando HttpClient, RestTemplate, OpenFeign)
 - Spring - Testes com MockMVC
 - Spring - Basic Authentication
+- Srping - Authentication JWT
